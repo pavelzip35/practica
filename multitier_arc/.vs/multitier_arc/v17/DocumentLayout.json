@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#_proj\\multitier_arc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4582A8-1AE0-45A7-AFF7-226748DE5B21}|multitier_arc\\multitier_arc.csproj|d:\\c#_proj\\multitier_arc\\multitier_arc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4582A8-1AE0-45A7-AFF7-226748DE5B21}|multitier_arc\\multitier_arc.csproj|solutionrelative:multitier_arc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#_proj\\multitier_arc\\multitier_arc\\Program.cs",
+              "RelativeDocumentMoniker": "multitier_arc\\Program.cs",
+              "ToolTip": "D:\\c#_proj\\multitier_arc\\multitier_arc\\Program.cs",
+              "RelativeToolTip": "multitier_arc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:32:23.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
